@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+1
+20
+'Digite dos numeros'
+5
+1
+10
+num1, num2
+7
+0
+1
+33
+num1 mod 2 = 0 and num2 mod 2 = 0
+7
+0
+1
+14
+num1 mod 2 = 0
+7
+0
+1
+14
+num2 mod 2 = 0
+4
+1
+27
+'Ambos numeros son impares'
+13
+4
+1
+43
+'El numero 2 es par y el numero 1 es impar'
+13
+13
+4
+1
+40
+'El numero 1 es par y el numero 2 impar'
+13
+13
+4
+1
+25
+'Ambos numeros son pares'
+13
+1

@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+mujeres
+1
+0
+7
+varones
+1
+0
+4
+1
+78
+'Digite la cantidad de alumnas mujeres y alumnos varones que tiene en el aula'
+5
+1
+16
+mujeres, varones
+6
+3
+12
+alumnosTotal
+17
+mujeres + varones
+17
+porcentajeMujeres
+30
+(mujeres * 100) / alumnosTotal
+17
+porcentajeVarones
+30
+(varones * 100) / alumnosTotal
+4
+1
+106
+'El porcentaje de alumnas mujeres es de: ',porcentajeMujeres, ' y el de varones es de: ',porcentajeVarones
+1

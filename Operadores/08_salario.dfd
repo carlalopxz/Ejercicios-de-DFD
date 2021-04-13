@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+15
+horasTrabajadas
+1
+0
+12
+salarioXHora
+1
+0
+4
+1
+71
+'Digite el valor de las horas trabajadas por dia y el salario por hora'
+5
+1
+29
+horasTrabajadas, salarioXHora
+6
+2
+10
+salarioDia
+30
+horasTrabajadas * salarioXHora
+14
+salarioMensual
+15
+salarioDia * 31
+4
+1
+43
+'El salario mensual es de: ',salarioMensual
+1

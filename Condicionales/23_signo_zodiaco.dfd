@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+13
+nombreUsuario
+2
+''
+12
+signoUsuario
+2
+''
+4
+1
+41
+'Digite su nombre y su signo del zodiaco'
+5
+1
+27
+nombreUsuario, signoUsuario
+7
+0
+1
+23
+signoUsuario = 'aries' 
+4
+1
+33
+'El usuario no es de signo aries'
+13
+4
+1
+75
+'El nombre del usuario es:', nombreUsuario, ' y su signo es: ',signoUsuario
+13
+1

@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+horas
+1
+0
+7
+minutos
+1
+0
+8
+segundos
+1
+0
+4
+1
+61
+'Digite una cantidad determinada de horas, minutos, segundos'
+5
+1
+24
+horas, minutos, segundos
+6
+3
+4
+seg1
+12
+horas * 3600
+4
+seg2
+12
+minutos * 60
+4
+seg3
+13
+segundos / 60
+6
+1
+15
+segundosTotales
+18
+seg1 + seg2 + seg3
+4
+1
+44
+'Los segundos totales son: ',segundostotales
+1

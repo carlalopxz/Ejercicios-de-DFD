@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+x
+1
+0
+1
+y
+1
+0
+1
+z
+1
+0
+4
+1
+26
+'Digite los tres numeros '
+5
+1
+5
+x,y,z
+7
+0
+1
+16
+x > y and x > z 
+7
+0
+1
+5
+y > z
+4
+1
+30
+'El número ',z, ' es el mayor'
+13
+4
+1
+29
+'El número ',y,' es el mayor'
+13
+13
+4
+1
+29
+'El número ',x,' es el mayor'
+13
+1

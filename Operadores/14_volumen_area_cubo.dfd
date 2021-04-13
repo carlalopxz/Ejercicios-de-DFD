@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+caraCubo
+1
+0
+4
+1
+39
+'Digite el valor de la cara de un cubo'
+5
+1
+8
+caraCubo
+6
+2
+7
+volumen
+32
+(caraCubo * caraCubo * caraCubo)
+4
+area
+16
+6 * (caraCubo)^2
+4
+1
+55
+'El volumen es de: ',volumen, ' y el area es de: ',area
+1

@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+bolita
+9
+random(5)
+6
+compra
+1
+0
+4
+1
+30
+'¿Cuanto es el total a pagar?'
+5
+1
+6
+compra
+7
+0
+1
+10
+bolita = 1
+7
+0
+1
+10
+bolita = 2
+7
+0
+1
+10
+bolita = 3
+7
+0
+1
+10
+bolita = 4
+4
+1
+50
+'Tienes 100% de descuento, tu compra es gratis !!'
+13
+6
+2
+9
+descuento
+13
+compra * 0.50
+7
+precioF
+18
+compra - descuento
+4
+1
+49
+'Tiene 50% de descuento, total a pagar $',precioF
+13
+13
+6
+2
+9
+descuento
+13
+compra * 0.25
+7
+precioF
+18
+compra - descuento
+4
+1
+49
+'Tiene 25% de descuento, total a pagar $',precioF
+13
+13
+6
+2
+9
+descuento
+13
+compra * 0.10
+7
+precioF
+18
+compra - descuento
+4
+1
+49
+'Tiene 10% de descuento, total a pagar $',precioF
+13
+13
+4
+1
+47
+'Tiene 0% de descuento, total a pagar $',compra
+13
+1
